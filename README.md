@@ -1,2 +1,1 @@
-# php
-PHP projecten
+Bij formulier 2 is de lay-out goed uit de verf gekomen, alleen de functionaliteit van formulier 1 is beter, omdat ik daar wel de check werkend heb gekregen. Bij formulier 2 was wat minder tijd om te checken hoe dit goed te krijgen was en hier ga ik verder aan werken.
